@@ -9,8 +9,8 @@
 #include <BlynkSimpleEsp8266.h>
 
 char auth[] = "02-d5FXYQoJOXyFtu4z2UIPYviJnM5Eb";
-char ssid[] = "Nguyên Lê";
-char pass[] = "123467890";
+char ssid[] = "NGUYEN NGUYEN";
+char pass[] = "21082002";
 
 #define digitalPin D0
 #define led D2
